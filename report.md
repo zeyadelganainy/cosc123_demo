@@ -14,7 +14,6 @@ Numbered List:
 1. Item 1
 2. Item 2
 3. Item 3
-1. Item 4
 1. Item 5
 
 **Notice how I just put 1. for the last 2 and it automatically connected to the previous list**
